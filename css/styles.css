@@ -26,10 +26,6 @@ a {
   color: #2e2f42;
 }
 
-.footer-logo .logo-part {
-  color: #f4f4fd;
-}
-
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -48,11 +44,8 @@ a {
   color: #434455;
 }
 .nav-link:hover,
-.nav-link:focus .contacts-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
-}
-
-.page-footer {
-  background-color: #2e2f42;
 }
